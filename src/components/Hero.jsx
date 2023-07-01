@@ -1,7 +1,4 @@
 import { useEffect, useState } from "react";
-// import Btc from "../images/hero/bitcoin.png";
-// import Eth from "../images/hero/ethereum.png";
-import { Link } from "react-router-dom";
 
 const Hero = () => {
   const [data, setData] = useState([]);
@@ -69,7 +66,6 @@ const Hero = () => {
             </div>
           </div>
           {/* mobile btn */}
-          <a href=""></a>
         </div>
       </section>
     </>
