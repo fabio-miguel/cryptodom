@@ -1,4 +1,4 @@
-About the project
+About
 CryptoDom is a crypto themed website that allows users to view up-to-date information about various cryptocurrencies. The website is designed to provide users with a "snapshot" of current key metrics of cryptocurrencies. The website uses the Coingecko API, which is a well-known source for cryptocurrency data.
 
 Built using:
