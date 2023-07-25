@@ -41,7 +41,7 @@ function Navbar() {
               <a href="#market">Market</a>
             </li>
             <li>
-              <a href="#whyus">Why Us</a>
+              <a href="#why-us">Why Us</a>
             </li>
             <li>
               <a href="#join">Join</a>
