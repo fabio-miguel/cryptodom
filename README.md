@@ -1,16 +1,31 @@
-About
-CryptoDom is a crypto themed website that allows users to view up-to-date information about various cryptocurrencies. The website is designed to provide users with a "snapshot" of current key metrics of cryptocurrencies. The website uses the Coingecko API, which is a well-known source for cryptocurrency data.
+<div align='center'><img src="src/images/github/cryptodom-logo.png"/></div>
 
-Built using:
-- React JS
-- Vanilla CSS
+# Cryptodom
 
-Bugs/Challenges to address:
-- On mobile, user can scroll along x-axis. Remove this for more user firendly mobile experience
-- On mobile, hero content is not aligned well along y-axis. Move hero-content up y-axis for clearer landing page
+Orange Car Rent is a (front-end) car rental website that allows users to reserve cars. The website offers a user-friendly interface that enables users to effortlessly search, compare, and book cars from a diverse range of vehicles.
 
- Improvements:
- - Incorporate animation
- - Add pagination to Market Summary Section to view multiple cryptocurrencies
- - Add btn on mobile hero for users to scroll to and view Market Summary Section
- - Update Read Me with project screenshots
+## Tech Stack
+
+**Client:** React, vanilla CSS
+
+## Screenshots
+
+![App Screenshot](src/images/github/cryptodom-crypto-screenshot.png)
+
+## Installation
+
+To install the required dependencies, simply run the following command in the project's root directory:
+
+```bash
+  npm install
+```
+
+## Usage
+
+To start the development server, run the following command:
+
+```bash
+  npm start
+```
+
+The application will be available at http://localhost:3000
