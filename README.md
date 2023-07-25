@@ -2,7 +2,7 @@
 
 # Cryptodom
 
-Orange Car Rent is a (front-end) car rental website that allows users to reserve cars. The website offers a user-friendly interface that enables users to effortlessly search, compare, and book cars from a diverse range of vehicles.
+CryptoDom is a crypto themed website that allows users to view up-to-date information about various cryptocurrencies. The website is designed to provide users with a "snapshot" of current key metrics of cryptocurrencies. The website uses the Coingecko API, which is a well-known source for cryptocurrency data.
 
 ## Tech Stack
 
